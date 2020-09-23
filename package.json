@@ -1,0 +1,14 @@
+{
+  "name": "taller1",
+  "version": "1.0.0",
+  "description": "Taller",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Evelyn06",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.2"
+  }
+}
